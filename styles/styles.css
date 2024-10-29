@@ -1,0 +1,24 @@
+body {
+    background-color: lightpink;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: darkmagenta;
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    color: deeppink;
+}
+img{
+    height: 12rem;
+    width: 150px;
+}
+button{
+    background-color: lightcoral;
+    color: aliceblue;
+    height: 20px;
+    width: 70px;
+
+}
